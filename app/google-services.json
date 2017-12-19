@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "426849033669",
+    "firebase_url": "https://teacherinfo-f2c6d.firebaseio.com",
+    "project_id": "teacherinfo-f2c6d",
+    "storage_bucket": "teacherinfo-f2c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426849033669:android:c719a5c221ebb94d",
+        "android_client_info": {
+          "package_name": "com.example.sunlight1.http"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426849033669-9hmii2jlcgrkotgq4h1d2eub1k6b45n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwci11vDNjopsEq3JKRD4gQLbygsG54Gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
